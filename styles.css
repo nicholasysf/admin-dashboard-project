@@ -156,7 +156,7 @@ input::placeholder{
 }
 
 .content-container{
-    
+
 }
 
 .left-container{
@@ -175,16 +175,9 @@ input::placeholder{
     display: flex;
     flex-direction: column;
     padding: 20px;
+    color: rgb(3, 7, 7);
 
 }
-.right-container{
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-}
 
-.right-items{
-    min-width: 100px;
-    border-style: solid;
-    border-color: rgb(82, 216, 250);
-}
+h4{
+    text-decoration: underline;
